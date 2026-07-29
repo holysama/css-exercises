@@ -1,1 +1,20 @@
 /* Add CSS Styling */
+.odd {
+    background-color: rgb(240, 128, 128);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondEl {
+    color: rgb(0, 0, 255);
+    font-size: 36px;
+}
+
+.thirdEl {
+    font-size: 24px;
+}
+
+#fourthEl {
+    background-color: rgb(144, 238, 144);
+    font-size: 24px;
+    font-weight: bold;
+}
